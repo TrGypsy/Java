@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class SayilarınToplamı {
+public class sayilarınToplamı {
 
     public static void main(String[] args) {
         int a=0;
