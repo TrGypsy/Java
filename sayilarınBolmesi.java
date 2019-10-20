@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 
-public class SayilarınBolmesi {
+public class sayilarınBolmesi {
 
 /*    1 den 100 kadar olan sayıların 2  ve 5 bolunenlerı lısteleme
            ve   Sayıların toplamlarını bulma    */
