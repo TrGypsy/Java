@@ -24,7 +24,7 @@ public class SayilarınBolmesi {
                 c+=i;               // sonuc 0 ise sayıları atadıgımız c ile topluyacak
             }
             if (i%5==0){            // 1 den 100 kadar olan  sayılarda 5e tam bolunenleri kontrol etcek
-                b.add(i);           // sonuc 0 ise a listemıze eklıcek
+                b.add(i);           // sonuc 0 ise b listemıze eklıcek
                 d+=i;               // sonuc 0 ise sayıları atadıgımız d ile topluyacak
             }
 
